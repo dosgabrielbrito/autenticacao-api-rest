@@ -1,5 +1,4 @@
 const UsuarioService = require('../services/usuarioService.js');
-
 const usuarioService = new UsuarioService();
 
 class UsuarioController {
